@@ -20,4 +20,4 @@ Contoh yang bisa diaplikasikan itu spt mendeteksi tumbuhan, vegetasi, atau objek
 - Saat build image docker tidak ada masalah <br>
    ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/image%20dock.png)
 - tetapi saat running seperti ini <br>
-   ![kaleng]()
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/error.png)
