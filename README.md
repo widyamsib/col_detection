@@ -9,15 +9,15 @@ Contoh yang bisa diaplikasikan itu spt mendeteksi tumbuhan, vegetasi, atau objek
 
 ### Contoh output dari program
 1. Kaleng berwarna hijau <br>
-   ![kaleng]()
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/kaleng.png)
 3. Mainan rubik berwarna hijau <br>
-   ![kaleng]()
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/rubik.png)
 5. Tutup gelas berwarna hijau <br>
-   ![kaleng]()
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/tutup.png)
 
 ### Problem encountered
 - Untuk code di local sudah aman bisa berjalan dengan baik
 - Saat build image docker tidak ada masalah <br>
-   ![kaleng]()
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/image%20dock.png)
 - tetapi saat running seperti ini <br>
    ![kaleng]()
