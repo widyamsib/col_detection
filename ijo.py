@@ -1,12 +1,16 @@
 import numpy as np
 import cv2
 
-# Inisialisasi video capture dari kamera (-1 untuk kamera default)
-cap = cv2.VideoCapture(0)
+# Inisialisasi video capture dari file video
+cap = cv2.VideoCapture("D:\Iwang Mine\P1-COL\FOREST.mp4")
 
 while True:
     # Membaca frame dari video capture
     ret, frame = cap.read()
+
+    # Jika frame sudah habis (akhir video), keluar dari loop
+    if not ret:
+        break
 
     # Ambil lebar dan tinggi dari frame
     width = int(cap.get(3))
@@ -33,5 +37,3 @@ while True:
     if cv2.waitKey(1) == ord('q'):
         break
 
-cap.release()
-cv2.destroyAllWindows()

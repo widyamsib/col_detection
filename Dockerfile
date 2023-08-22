@@ -12,3 +12,4 @@ RUN pip install opencv-python-headless
 
 # Perintah default yang akan dijalankan ketika container dijalankan
 CMD ["python", "ijo.py"]
+# CMD ["bash"]
