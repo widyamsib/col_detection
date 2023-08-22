@@ -7,3 +7,17 @@ Simply jadi disini tujuan dibuild programnya adalah utk deteksi warna tapi <b>sp
 Contoh yang bisa diaplikasikan itu spt mendeteksi tumbuhan, vegetasi, atau objek hijau lainnya dalam gambar ini kan bisa mbantu kita utk pemantauan taman, kebun, atau lahan pertanian. (mungkin belum sejauh itu but ya start with simple approach like that hopes nanti pengembangannya bisa kesana) 👌
 
 
+### Contoh output dari program
+1. Kaleng berwarna hijau <br>
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/kaleng.png)
+3. Mainan rubik berwarna hijau <br>
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/rubik.png)
+5. Tutup gelas berwarna hijau <br>
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/tutup.png)
+
+### Problem encountered
+- Untuk code di local sudah aman bisa berjalan dengan baik
+- Saat build image docker tidak ada masalah <br>
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/image%20dock.png)
+- tetapi saat running seperti ini <br>
+   ![kaleng](https://github.com/widyamsib/col_detection/blob/master/imgdrlocal/error.png)
