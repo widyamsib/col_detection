@@ -1,1 +1,1 @@
-# <span style="color:red;"><strong>Maaf utk branch yang digunakan bukan di `master` tetapi di `main`  🙏🏼</strong></span>
+# <span style="color:red;"><strong>Maaf utk branch yang digunakan bukan di `main` tetapi di `master`  🙏🏼</strong></span>
